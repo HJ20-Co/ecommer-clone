@@ -1,10 +1,10 @@
 import React from 'react'
 import Hero from '../Components/Hero/Hero'
 
-export const Shop = () => {
+ const Shop = () => {
   return (
     <div>
-      <Hero/>
+        <Hero/>
     </div>
   )
 }
